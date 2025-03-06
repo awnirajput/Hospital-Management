@@ -17,3 +17,4 @@ Symptom Checker: AI-based symptom analysis to suggest possible conditions.
 Prescription Management: Digital prescriptions accessible anytime.
 
 Admin Dashboard: Manage users, doctors, and appointments.
+
